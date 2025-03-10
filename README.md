@@ -17,3 +17,5 @@ model. These experiments cover the cases of horizontal and inclined buoyant jets
 ambient, horizontal buoyant jets in co-flow current and nonbuoyant horizontal jets in
 stationary ambient. Good agreement between the experiments and the obtained simulations is
 revealed.
+
+https://www.tandfonline.com/doi/full/10.1080/09593330.2015.1135988
